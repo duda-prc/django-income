@@ -1,0 +1,9 @@
+# python bytecode
+__pycache__
+*.pyc
+
+# vscode
+.vscode/
+
+# Sensitive files
+.envrc*
